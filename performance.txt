@@ -1,0 +1,68 @@
+Linked
+======
+
+10
+[1553552149926 linked] put loop count: 45
+[1553552149926 linked] get loop count: 100
+
+100
+[1553552189148 linked] put loop count: 4950
+[1553552189148 linked] get loop count: 10000
+
+1,000
+[1553552205155 linked] put loop count: 499500
+[1553552205155 linked] get loop count: 1000000
+
+10,000
+[1554190686075 linked] put loop count: 49995000
+[1554190686075 linked] get loop count: 100000000
+
+100,000
+[1553988121024 linked] put loop count: 704940312
+[1553988121024 linked] get loop count: 1409965408
+
+300,000
+[1554334162131 linked] put loop count: 44997224463
+[1554334162131 linked] get loop count: 89993707728
+
+Binary Search Tree
+==================
+
+10
+[1553552377463 bst   ] put loop count: 20
+[1553552377463 bst   ] get loop count: 34
+
+100
+[1553552393936 bst   ] put loop count: 585
+[1553552393936 bst   ] get loop count: 769
+
+1,000
+[1553552406079 bst   ] put loop count: 10727
+[1553552406079 bst   ] get loop count: 12750
+
+10,000
+[1553552417070 bst   ] put loop count: 153210
+[1553552417070 bst   ] get loop count: 172990
+
+100,000
+[1553552433590 bst   ] put loop count: 2048876
+[1553552433590 bst   ] get loop count: 2245839
+
+300,000
+[1553552453760 bst   ] put loop count: 6749374
+[1553552453760 bst   ] get loop count: 7349336
+
+1,000,0000
+[1553552477565 bst   ] put loop count: 25681680
+[1553552477565 bst   ] get loop count: 27679803
+
+Questions
+=========
+
+1) Approximately how long did it take your computer to run the test for 300,000 iterations on the linked implementation?
+About 1 hour 7 mins
+
+2) What is the maximum value you can run the binary search tree implementation for and have it finish in less than a few seconds?
+About 20,000 iterations (finish in about 4-5 secs)
+
+ 
